@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 require("dotenv").config();
 
-// mongoDB name conveition
+// mongoDB name convention
 /*
    SQL ||  MongoDB
 Database -> Database
